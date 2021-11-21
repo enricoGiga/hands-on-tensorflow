@@ -1,1 +1,5 @@
 /my_cifar10_logs/
+/cnn/binary_classification/cats_and_dogs/tmp/
+/cnn/binary_classification/cats_and_dogs/tmp2/
+/cnn/binary_classification/happy_and_sad/happy-or-sad/
+/cnn/binary_classification/horses_vs_humans/data/
